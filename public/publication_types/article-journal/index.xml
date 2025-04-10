@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Kim-Hung Le</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Article-Journal</title>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>EF-CenterNet: An efficient anchor-free model for UAV-based banana leaf disease detection</title>
+      <link>http://localhost:1313/publication/2025-04-01_ef-centernet__an_efficient_anchor-free_model_for_uav-based_banana_leaf_disease_detection/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-04-01_ef-centernet__an_efficient_anchor-free_model_for_uav-based_banana_leaf_disease_detection/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;231&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;109927&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;EF-CenterNet: An efficient anchor-free model for UAV-based banana leaf disease detection - HT Thai, KH Le, NLT Nguyen - Computers and Electronics in Agriculture, 2025 - Related articles All 2 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MobileH-Transformer: Enabling real-time leaf disease detection using hybrid deep learning approach for smart agriculture</title>
+      <link>http://localhost:1313/publication/2025-03-01_mobileh-transformer__enabling_real-time_leaf_disease_detection_using_hybrid_deep_learning_approach_for_smart_agriculture/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-03-01_mobileh-transformer__enabling_real-time_leaf_disease_detection_using_hybrid_deep_learning_approach_for_smart_agriculture/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;189&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;107002&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;MobileH-Transformer: Enabling real-time leaf disease detection using hybrid deep learning approach for smart agriculture - HT Thai, KH Le - Crop Protection, 2025 - Cited by 2 Related articles All 2 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nNFST: A single-model approach for multiclass novelty detection in network intrusion detection systems</title>
+      <link>http://localhost:1313/publication/2025-02-07_nnfst__a_single-model_approach_for_multiclass_novelty_detection_in_network_intrusion_detection_systems/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-02-07_nnfst__a_single-model_approach_for_multiclass_novelty_detection_in_network_intrusion_detection_systems/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;104128&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Academic Press&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;nNFST: A single-model approach for multiclass novelty detection in network intrusion detection systems - XH Nguyen, KH Le - Journal of Network and Computer Applications, 2025 - Related articles&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DetectVul: A statement-level code vulnerability detection for Python</title>
+      <link>http://localhost:1313/publication/2025-02-01_detectvul__a_statement-level_code_vulnerability_detection_for_python/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-02-01_detectvul__a_statement-level_code_vulnerability_detection_for_python/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;163&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;107504&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;North-Holland&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;DetectVul: A statement-level code vulnerability detection for Python - HC Tran, AD Tran, KH Le - Future Generation Computer Systems, 2025 - Cited by 6 Related articles All 2 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinyResViT: A lightweight hybrid deep learning model for on-device corn leaf disease detection</title>
+      <link>http://localhost:1313/publication/2025-02-01_tinyresvit__a_lightweight_hybrid_deep_learning_model_for_on-device_corn_leaf_disease_detection/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-02-01_tinyresvit__a_lightweight_hybrid_deep_learning_model_for_on-device_corn_leaf_disease_detection/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;101495&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;TinyResViT: A lightweight hybrid deep learning model for on-device corn leaf disease detection - VL Truong-Dang, HT Thai, KH Le - Internet of Things, 2025 - Related articles&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XSShield: A novel dataset and lightweight hybrid deep learning model for XSS attack detection</title>
+      <link>http://localhost:1313/publication/2024-12-01_xsshield__a_novel_dataset_and_lightweight_hybrid_deep_learning_model_for_xss_attack_detection/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-12-01_xsshield__a_novel_dataset_and_lightweight_hybrid_deep_learning_model_for_xss_attack_detection/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;103363&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;XSShield: A novel dataset and lightweight hybrid deep learning model for XSS attack detection - GH Luu, MK Duong, TP Pham-Ngo, TS Ngo… - Results in Engineering, 2024 - Cited by 1 Related articles&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The robust scheme for intrusion detection system in internet of things</title>
+      <link>http://localhost:1313/publication/2023-12-01_the_robust_scheme_for_intrusion_detection_system_in_internet_of_things/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-12-01_the_robust_scheme_for_intrusion_detection_system_in_internet_of_things/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;100999&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;The robust scheme for intrusion detection system in internet of things - DT Nguyen, KH Le - Internet of Things, 2023 - Cited by 14 Related articles&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards sustainable agriculture: A lightweight hybrid model and cloud-based collection of datasets for efficient leaf disease detection</title>
+      <link>http://localhost:1313/publication/2023-11-01_towards_sustainable_agriculture__a_lightweight_hybrid_model_and_cloud-based_collection_of_datasets_for_efficient_leaf_disease_detection/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-11-01_towards_sustainable_agriculture__a_lightweight_hybrid_model_and_cloud-based_collection_of_datasets_for_efficient_leaf_disease_detection/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;148&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;488-500&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;North-Holland&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;Towards sustainable agriculture: A lightweight hybrid model and cloud-based collection of datasets for efficient leaf disease detection - HT Thai, KH Le, NLT Nguyen - Future Generation Computer Systems, 2023 - Cited by 15 Related articles All 2 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust detection of unknown DoS/DDoS attacks in IoT networks using a hybrid learning model</title>
+      <link>http://localhost:1313/publication/2023-10-01_robust_detection_of_unknown_dos_ddos_attacks_in_iot_networks_using_a_hybrid_learning_model/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-10-01_robust_detection_of_unknown_dos_ddos_attacks_in_iot_networks_using_a_hybrid_learning_model/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;100851&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;Robust detection of unknown DoS/DDoS attacks in IoT networks using a hybrid learning model - XH Nguyen, KH Le - Internet of Things, 2023 - Cited by 48 Related articles&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brainyedge: An ai-enabled framework for iot edge computing</title>
+      <link>http://localhost:1313/publication/2023-04-01_brainyedge__an_ai-enabled_framework_for_iot_edge_computing/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-04-01_brainyedge__an_ai-enabled_framework_for_iot_edge_computing/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Issue&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;211-221&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;Brainyedge: An ai-enabled framework for iot edge computing - KH Le, KH Le-Minh, HT Thai - ICT Express, 2023 - Cited by 34 Related articles All 2 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FormerLeaf: An efficient vision transformer for Cassava Leaf Disease detection</title>
+      <link>http://localhost:1313/publication/2023-01-01_formerleaf__an_efficient_vision_transformer_for_cassava_leaf_disease_detection/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-01-01_formerleaf__an_efficient_vision_transformer_for_cassava_leaf_disease_detection/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;204&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;107518&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;FormerLeaf: An efficient vision transformer for Cassava Leaf Disease detection - HT Thai, KH Le, NLT Nguyen - Computers and Electronics in Agriculture, 2023 - Cited by 116 Related articles All 4 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMIDS: An intelligent intrusion detection system against cyber threats in IoT</title>
+      <link>http://localhost:1313/publication/2022-02-10_imids__an_intelligent_intrusion_detection_system_against_cyber_threats_in_iot/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-02-10_imids__an_intelligent_intrusion_detection_system_against_cyber_threats_in_iot/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;11&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Issue&lt;/td&gt;
+          &lt;td&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;524&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;MDPI&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;IMIDS: An intelligent intrusion detection system against cyber threats in IoT - KH Le, MH Nguyen, TD Tran, ND Tran - Electronics, 2022 - Cited by 92 Related articles All 4 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Realguard: A lightweight network intrusion detection system for IoT gateways</title>
+      <link>http://localhost:1313/publication/2022-01-07_realguard__a_lightweight_network_intrusion_detection_system_for_iot_gateways/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-01-07_realguard__a_lightweight_network_intrusion_detection_system_for_iot_gateways/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Issue&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;432&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;MDPI&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;Realguard: A lightweight network intrusion detection system for IoT gateways - XH Nguyen, XD Nguyen, HH Huynh, KH Le - Sensors, 2022 - Cited by 115 Related articles All 8 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MidSiot: A multistage intrusion detection system for internet of things</title>
+      <link>http://localhost:1313/publication/2022-01-01_midsiot__a_multistage_intrusion_detection_system_for_internet_of_things/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-01-01_midsiot__a_multistage_intrusion_detection_system_for_internet_of_things/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Issue&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;9173291&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Hindawi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;MidSiot: A multistage intrusion detection system for internet of things - N Dat-Thinh, H Xuan-Ninh, L Kim-Hung - Wireless Communications and Mobile Computing, 2022 - Cited by 42 Related articles All 6 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards AI‐based traffic counting system with edge computing</title>
+      <link>http://localhost:1313/publication/2021-01-01_towards_aibased_traffic_counting_system_with_edge_computing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-01-01_towards_aibased_traffic_counting_system_with_edge_computing/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Issue&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;5551976&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;Hindawi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;Towards AI‐based traffic counting system with edge computing - DL Dinh, HN Nguyen, HT Thai, KH Le - Journal of Advanced Transportation, 2021 - Cited by 46 Related articles All 6 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User-driven adaptive sampling for massive internet of things</title>
+      <link>http://localhost:1313/publication/2020-07-23_user-driven_adaptive_sampling_for_massive_internet_of_things/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-07-23_user-driven_adaptive_sampling_for_massive_internet_of_things/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Field&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Volume&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pages&lt;/td&gt;
+          &lt;td&gt;135798-135810&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Publisher&lt;/td&gt;
+          &lt;td&gt;IEEE&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scholar articles&lt;/td&gt;
+          &lt;td&gt;User-driven adaptive sampling for massive internet of things - L Kim-Hung, Q Le-Trung - IEEE Access, 2020 - Cited by 14 Related articles All 3 versions&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: layouts
+      target: layouts
+  imports:
+    - path: github.com/truongnn/hugo-blox/modules/blox-core
