@@ -1,7 +1,7 @@
 news:
   - date: 2025-04
-    title: "EF-CenterNet: An efficient anchor-free model for UAV-based banana leaf disease detection"
-    venue: Computers and Electronics in Agriculture
+    title: Our paper "EF-CenterNet: An efficient anchor-free model for UAV-based banana leaf disease detection" is published
+    venue: Computers and Electronics in Agriculture "(IF: 7.7)"
     type: Research Paper 
   - date: 2025-03
     title: Logical and Physical Optimizations for SQL Query Execution over Large Language Models
