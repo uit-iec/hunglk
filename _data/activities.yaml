@@ -12,6 +12,8 @@ chair_roles:
     conference: ICCAIS
     year: 2024
 
-# pc_member:
-#   - year: 2025
-#     conferences: [CITA]
+pc_member:
+  - year: 2025
+    conferences: [CITA]
+  - year: 2024
+    conferences: [ICCAIS]
