@@ -5,142 +5,142 @@ news:
     type: Research Paper
 
   - date: 2025-04
-    title: "TinyResViT: A lightweight hybrid deep learning model for on-device corn leaf disease detection"
+    title: "Just published: TinyResViT - Our innovative hybrid model revolutionizes on-device corn leaf disease detection is published"
     venue: Internet of Things
     type: Research Paper
 
   - date: 2025-04
-    title: "nNFST: A single-model approach for multiclass novelty detection in network intrusion detection systems"
+    title: "Breakthrough: Our nNFST model enhances security with advanced multiclass novelty detection for network intrusion systems is published"
     venue: Journal of Network and Computer Applications
     type: Research Paper
 
   - date: 2024-10
-    title: "Deep learning models for UAV-assisted bridge inspection: A YOLO benchmark analysis"
+    title: "Innovation in infrastructure: Our YOLO-based deep learning models transform UAV-assisted bridge inspection is presented"
     venue: International Conference on Advanced Technologies for Communications (ATC)
     type: Conference Paper
 
   - date: 2024-09
-    title: "DeepNIDS: A Deep Neural Network-Based Network Intrusion Detection System for IoT"
+    title: "Securing IoT networks: Our DeepNIDS framework leverages neural networks for superior intrusion detection is presented"
     venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
     type: Conference Paper
 
   - date: 2024-08
-    title: "BERT-Enhanced DGA Botnet Detection: A Comparative Analysis of Machine Learning and Deep Learning Models"
+    title: "Combating cyber threats: Our BERT-enhanced approach outperforms traditional methods in DGA botnet detection is presented"
     venue: 13th International Conference on Control, Automation and Information Sciences (ICCAIS)
     type: Conference Paper
 
   - date: 2024-07
-    title: "XSShield: A novel dataset and lightweight hybrid deep learning model for XSS attack detection"
+    title: "Defending web applications: Our XSShield solution combines novel datasets with lightweight AI to detect XSS attacks is published"
     venue: Results in Engineering
     type: Research Paper
 
   - date: 2024-05
-    title: "MobileH-Transformer: Enabling real-time leaf disease detection using hybrid deep learning approach for smart agriculture"
+    title: "Revolutionizing smart agriculture: Our MobileH-Transformer enables real-time leaf disease detection for improved crop protection is published"
     venue: Crop Protection
     type: Research Paper
 
   - date: 2024-05
-    title: "Advancing Phishing Attack Detection with a Novel Dataset and Deep Learning Solution"
+    title: "Fighting cybercrime: Our novel dataset and deep learning solution takes phishing attack detection to the next level is presented"
     venue: The 13th Conference on Information Technology and Its Applications
     type: Conference Paper
 
   - date: 2024-05
-    title: "An Effective Unsupervised Cyber Attack Detection on Web Applications Using Gaussian Mixture Model"
+    title: "Protecting web applications: Our unsupervised Gaussian Mixture Model effectively detects cyber attacks without human intervention is presented"
     venue: The 13th Conference on Information Technology and Its Applications
     type: Conference Paper
 
   - date: 2024-04
-    title: "A Multi-Input Bi-LSTM Autoencoder Model with Wavelet Transform for Air Quality Prediction"
+    title: "Breathing cleaner air: Our advanced Bi-LSTM model with wavelet transform delivers superior air quality predictions is presented"
     venue: International Conference on Multimedia Analysis and Pattern Recognition (MAPR)
     type: Conference Paper
 
   - date: 2024-04
-    title: "An automated benchmarking framework for anomaly-based intrusion detection systems"
+    title: "Raising the bar: Our automated benchmarking framework standardizes evaluation of anomaly-based intrusion detection systems is presented"
     venue: International Conference on Multimedia Analysis and Pattern Recognition (MAPR)
     type: Conference Paper
 
   - date: 2023-12
-    title: "An Edge-based Fire Detection System for Real-Time IoT Applications"
+    title: "Saving lives and property: Our edge-based fire detection system provides real-time alerts through IoT technology is presented"
     venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
     type: Conference Paper
 
   - date: 2023-12
-    title: "Towards real-time outdoor air quality prediction using a hybrid model based on internet of things devices"
+    title: "Cleaner cities, healthier lives: Our IoT-based hybrid model delivers real-time outdoor air quality predictions is presented"
     venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
     type: Conference Paper
 
   - date: 2023-11
-    title: "The robust scheme for intrusion detection system in internet of things"
+    title: "Securing the IoT ecosystem: Our robust intrusion detection scheme protects connected devices from evolving threats is published"
     venue: Internet of Things
     type: Research Paper
 
   - date: 2023-10
-    title: "Robust detection of unknown DoS/DDoS attacks in IoT networks using a hybrid learning model"
+    title: "Staying one step ahead: Our hybrid learning model detects unknown DoS/DDoS attacks to safeguard IoT networks is published"
     venue: Internet of Things
     type: Research Paper
 
   - date: 2023-09
-    title: "Towards sustainable agriculture: A lightweight hybrid model and cloud-based collection of datasets for efficient leaf disease detection"
+    title: "Feeding the future: Our lightweight hybrid model and cloud-based datasets enable efficient leaf disease detection for sustainable agriculture is published"
     venue: Future Generation Computer Systems
     type: Research Paper
 
   - date: 2023-09
-    title: "Towards smart traffic lights based on deep learning and traffic flow information"
+    title: "Reducing congestion and emissions: Our deep learning approach creates smarter traffic lights that respond to real-time flow patterns is presented"
     venue: 9th NAFOSTED Conference on Information and Computer Science (NICS)
     type: Conference Paper
 
   - date: 2023-08
-    title: "FormerLeaf: An efficient vision transformer for Cassava Leaf Disease detection"
+    title: "Protecting cassava crops: Our FormerLeaf vision transformer efficiently detects leaf diseases to safeguard food security is published"
     venue: Computers and Electronics in Agriculture
     type: Research Paper
 
   - date: 2023-07
-    title: "Towards a Robust and Scalable Information Retrieval Framework in Big Data Context"
+    title: "Finding needles in digital haystacks: Our robust and scalable framework revolutionizes information retrieval in big data environments is presented"
     venue: 9th NAFOSTED Conference on Information and Computer Science (NICS)
     type: Conference Paper
 
   - date: 2023-06
-    title: "Deep feature selection for machine learning based attack detection systems"
+    title: "Smarter security systems: Our deep feature selection method enhances machine learning-based attack detection accuracy and efficiency is presented"
     venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
     type: Conference Paper
 
   - date: 2023-05
-    title: "Enhancing explainability of machine learning-based intrusion detection systems"
+    title: "Enhancing explainability of machine learning-based intrusion detection systems is presented"
     venue: RIVF International Conference on Computing and Communication Technologies (RIVF)
     type: Conference Paper
 
   - date: 2023-05
-    title: "Toward a predictive smart parking system in IoT-enabled cities"
+    title: "Toward a predictive smart parking system in IoT-enabled cities is presented"
     venue: 9th NAFOSTED Conference on Information and Computer Science (NICS)
     type: Conference Paper
 
   - date: 2023-04
-    title: "A Real-time Border Surveillance System using Deep Learning and Edge Computing"
+    title: "A Real-time Border Surveillance System using Deep Learning and Edge Computing is presented"
     venue: RIVF International Conference on Computing and Communication Technologies (RIVF)
     type: Conference Paper
 
   - date: 2023-03
-    title: "Towards generating semi-synthetic datasets for network intrusion detection system"
+    title: "Towards generating semi-synthetic datasets for network intrusion detection system is presented"
     venue: International Conference on Information Networking (ICOIN)
     type: Conference Paper
 
   - date: 2023-02
-    title: "Towards an attention-based threat detection system for iot networks"
+    title: "Towards an attention-based threat detection system for iot networks is presented"
     venue: International Conference on Future Data and Security Engineering
     type: Conference Paper
 
   - date: 2023-01
-    title: "Towards a high-performance threat-aware system for software-defined networks"
+    title: "Towards a high-performance threat-aware system for software-defined networks is presented"
     venue: International Conference on Advanced Technologies for Communications (ATC)
     type: Conference Paper
 
   - date: 2022-12
-    title: "Preventing Adversarial Attacks Against Deep Learning-Based Intrusion Detection System"
+    title: "Preventing Adversarial Attacks Against Deep Learning-Based Intrusion Detection System is presented"
     venue: International Conference on Information Security Practice and Experience
     type: Conference Paper
 
   - date: 2022-11
-    title: "A lightweight machine-learning based wireless link estimation for iot devices"
+    title: "A lightweight machine-learning based wireless link estimation for iot devices is presented"
     venue: 27th Asia Pacific Conference on Communications (APCC)
     type: Conference Paper
 
