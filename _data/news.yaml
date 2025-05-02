@@ -4,6 +4,241 @@ news:
     venue: Computers and Electronics in Agriculture Journal (7.7 IF, ISI-Q1)
     type: Research Paper
 
+  - date: 2025-04
+    title: "TinyResViT: A lightweight hybrid deep learning model for on-device corn leaf disease detection"
+    venue: Internet of Things
+    type: Research Paper
+
+  - date: 2025-04
+    title: "nNFST: A single-model approach for multiclass novelty detection in network intrusion detection systems"
+    venue: Journal of Network and Computer Applications
+    type: Research Paper
+
+  - date: 2024-10
+    title: "Deep learning models for UAV-assisted bridge inspection: A YOLO benchmark analysis"
+    venue: International Conference on Advanced Technologies for Communications (ATC)
+    type: Conference Paper
+
+  - date: 2024-09
+    title: "DeepNIDS: A Deep Neural Network-Based Network Intrusion Detection System for IoT"
+    venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
+    type: Conference Paper
+
+  - date: 2024-08
+    title: "BERT-Enhanced DGA Botnet Detection: A Comparative Analysis of Machine Learning and Deep Learning Models"
+    venue: 13th International Conference on Control, Automation and Information Sciences (ICCAIS)
+    type: Conference Paper
+
+  - date: 2024-07
+    title: "XSShield: A novel dataset and lightweight hybrid deep learning model for XSS attack detection"
+    venue: Results in Engineering
+    type: Research Paper
+
+  - date: 2024-05
+    title: "MobileH-Transformer: Enabling real-time leaf disease detection using hybrid deep learning approach for smart agriculture"
+    venue: Crop Protection
+    type: Research Paper
+
+  - date: 2024-05
+    title: "Advancing Phishing Attack Detection with a Novel Dataset and Deep Learning Solution"
+    venue: The 13th Conference on Information Technology and Its Applications
+    type: Conference Paper
+
+  - date: 2024-05
+    title: "An Effective Unsupervised Cyber Attack Detection on Web Applications Using Gaussian Mixture Model"
+    venue: The 13th Conference on Information Technology and Its Applications
+    type: Conference Paper
+
+  - date: 2024-04
+    title: "A Multi-Input Bi-LSTM Autoencoder Model with Wavelet Transform for Air Quality Prediction"
+    venue: International Conference on Multimedia Analysis and Pattern Recognition (MAPR)
+    type: Conference Paper
+
+  - date: 2024-04
+    title: "An automated benchmarking framework for anomaly-based intrusion detection systems"
+    venue: International Conference on Multimedia Analysis and Pattern Recognition (MAPR)
+    type: Conference Paper
+
+  - date: 2023-12
+    title: "An Edge-based Fire Detection System for Real-Time IoT Applications"
+    venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
+    type: Conference Paper
+
+  - date: 2023-12
+    title: "Towards real-time outdoor air quality prediction using a hybrid model based on internet of things devices"
+    venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
+    type: Conference Paper
+
+  - date: 2023-11
+    title: "The robust scheme for intrusion detection system in internet of things"
+    venue: Internet of Things
+    type: Research Paper
+
+  - date: 2023-10
+    title: "Robust detection of unknown DoS/DDoS attacks in IoT networks using a hybrid learning model"
+    venue: Internet of Things
+    type: Research Paper
+
+  - date: 2023-09
+    title: "Towards sustainable agriculture: A lightweight hybrid model and cloud-based collection of datasets for efficient leaf disease detection"
+    venue: Future Generation Computer Systems
+    type: Research Paper
+
+  - date: 2023-09
+    title: "Towards smart traffic lights based on deep learning and traffic flow information"
+    venue: 9th NAFOSTED Conference on Information and Computer Science (NICS)
+    type: Conference Paper
+
+  - date: 2023-08
+    title: "FormerLeaf: An efficient vision transformer for Cassava Leaf Disease detection"
+    venue: Computers and Electronics in Agriculture
+    type: Research Paper
+
+  - date: 2023-07
+    title: "Towards a Robust and Scalable Information Retrieval Framework in Big Data Context"
+    venue: 9th NAFOSTED Conference on Information and Computer Science (NICS)
+    type: Conference Paper
+
+  - date: 2023-06
+    title: "Deep feature selection for machine learning based attack detection systems"
+    venue: IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
+    type: Conference Paper
+
+  - date: 2023-05
+    title: "Enhancing explainability of machine learning-based intrusion detection systems"
+    venue: RIVF International Conference on Computing and Communication Technologies (RIVF)
+    type: Conference Paper
+
+  - date: 2023-05
+    title: "Toward a predictive smart parking system in IoT-enabled cities"
+    venue: 9th NAFOSTED Conference on Information and Computer Science (NICS)
+    type: Conference Paper
+
+  - date: 2023-04
+    title: "A Real-time Border Surveillance System using Deep Learning and Edge Computing"
+    venue: RIVF International Conference on Computing and Communication Technologies (RIVF)
+    type: Conference Paper
+
+  - date: 2023-03
+    title: "Towards generating semi-synthetic datasets for network intrusion detection system"
+    venue: International Conference on Information Networking (ICOIN)
+    type: Conference Paper
+
+  - date: 2023-02
+    title: "Towards an attention-based threat detection system for iot networks"
+    venue: International Conference on Future Data and Security Engineering
+    type: Conference Paper
+
+  - date: 2023-01
+    title: "Towards a high-performance threat-aware system for software-defined networks"
+    venue: International Conference on Advanced Technologies for Communications (ATC)
+    type: Conference Paper
+
+  - date: 2022-12
+    title: "Preventing Adversarial Attacks Against Deep Learning-Based Intrusion Detection System"
+    venue: International Conference on Information Security Practice and Experience
+    type: Conference Paper
+
+  - date: 2022-11
+    title: "A lightweight machine-learning based wireless link estimation for iot devices"
+    venue: 27th Asia Pacific Conference on Communications (APCC)
+    type: Conference Paper
+
+  - date: 2022-10
+    title: "LS-TFP: A LSTM-Based Traffic Flow Prediction Method in Intelligent Internet of Things"
+    venue: International Conference on Cognitive and Intelligent Computing (ICCIC)
+    type: Conference Paper
+
+  - date: 2022-09
+    title: "MidSiot: A multistage intrusion detection system for internet of things"
+    venue: Wireless Communications and Mobile Computing
+    type: Research Paper
+
+  - date: 2022-06
+    title: "IMIDS: An intelligent intrusion detection system against cyber threats in IoT"
+    venue: Electronics
+    type: Research Paper
+
+  - date: 2022-05
+    title: "Towards Remote Deployment for Intrusion Detection System to IoT Edge Devices"
+    venue: Recent Advances in Internet of Things and Machine Learning
+    type: Book Chapter
+
+  - date: 2022-04
+    title: "LS-SPP: A LSTM-Based Solar Power Prediction Method from Weather Forecast Information"
+    venue: 8th NAFOSTED Conference on Information and Computer Science (NICS)
+    type: Conference Paper
+
+  - date: 2022-03
+    title: "An ensemble feature selection algorithm for machine learning based intrusion detection system"
+    venue: 8th NAFOSTED Conference on Information and Computer Science (NICS)
+    type: Conference Paper
+
+  - date: 2022-02
+    title: "Odlie: On-demand deep learning framework for edge intelligence in industrial internet of things"
+    venue: 8th NAFOSTED Conference on Information and Computer Science (NICS)
+    type: Conference Paper
+
+  - date: 2022-01
+    title: "Brainyedge: An ai-enabled framework for iot edge computing"
+    venue: ICT Express
+    type: Research Paper
+
+  - date: 2021-12
+    title: "AirGen: GAN-based synthetic data generator for air monitoring in Smart City"
+    venue: IEEE 6th International Forum on Research and Technology for Society and Industry (RTSI)
+    type: Conference Paper
+
+  - date: 2021-11
+    title: "A scalable IoT framework to design logical data flow using virtual sensor"
+    venue: IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+    type: Conference Paper
+
+  - date: 2021-10
+    title: "Dlase: A light-weight framework supporting deep learning for edge devices"
+    venue: 4th International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)
+    type: Conference Paper
+
+  - date: 2021-09
+    title: "Towards AI‐based traffic counting system with edge computing"
+    venue: Journal of Advanced Transportation
+    type: Research Paper
+
+  - date: 2021-08
+    title: "Realguard: A lightweight network intrusion detection system for IoT gateways"
+    venue: Sensors
+    type: Research Paper
+
+  - date: 2021-07
+    title: "User-driven adaptive sampling for massive internet of things"
+    venue: IEEE Access
+    type: Research Paper
+
+  - date: 2021-06
+    title: "An industrial iot framework to simplify connection process using system-generated connector"
+    venue: IEEE 3rd International Forum on Research and Technologies for Society and Industry (RTSI)
+    type: Conference Paper
+
+  - date: 2021-05
+    title: "WoT-AD: A descriptive language for group of things in massive IoT"
+    venue: IEEE 5th World Forum on Internet of Things (WF-IoT)
+    type: Conference Paper
+
+  - date: 2021-04
+    title: "Artificial cognition for early leaf disease detection using vision transformers"
+    venue: International conference on advanced technologies for communications (ATC)
+    type: Conference Paper
+
+  - date: 2020-12
+    title: "User-driven error detection for time series with events"
+    venue: IEEE 36th International Conference on Data Engineering (ICDE)
+    type: Conference Paper
+
+  - date: 2020-11
+    title: "An efficient framework for Vietnamese sentiment analysis"
+    venue: 18th International Conference on Intelligent Software Methodologies, Tools, and Techniques (SoMeT)
+    type: Conference Paper
+
 #Sample of how to add a new entry
 #  - date: 2025-03
 #    title: Logical and Physical Optimizations for SQL Query Execution over Large Language Models
